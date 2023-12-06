@@ -31,8 +31,8 @@ I approach every project with enthusiasm, viewing challenges as opportunities to
 
 ## Contact
 Feel free to reach out if you have any questions, collaboration ideas, or just want to connect!
-- Email: [your.developer.mhhamza@gmail.com]
-- LinkedIn: [Mohammad Hamza on LinkedIn]
-- GitHub: [YourGitHubUsername]
+- Email: [developer.mhhamza@gmail.com]
+- LinkedIn: [[Mohammad Hamza on LinkedIn](https://www.linkedin.com/in/mh-hamza444/)]
+- GitHub: [[YourGitHubUsername](https://github.com/mh-hamza)]
 
 Thank you for stopping by! Let's build something awesome together. 🚀
