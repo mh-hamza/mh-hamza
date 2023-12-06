@@ -6,7 +6,7 @@ Hello there! I'm Mohammad Hamza, a passionate web frontend developer dedicated t
 ## About Me
 - **Name:** Mohammad Hamza
 - **Occupation:** Web Frontend Developer
-- **Location:** [Your Location]
+- **Location:** [Jaunpur Uttar Pradesh]
 
 ## Expertise
 I specialize in:
@@ -31,7 +31,7 @@ I approach every project with enthusiasm, viewing challenges as opportunities to
 
 ## Contact
 Feel free to reach out if you have any questions, collaboration ideas, or just want to connect!
-- Email: [your.email@example.com]
+- Email: [your.developer.mhhamza@gmail.com]
 - LinkedIn: [Mohammad Hamza on LinkedIn]
 - GitHub: [YourGitHubUsername]
 
