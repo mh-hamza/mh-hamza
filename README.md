@@ -60,9 +60,6 @@ I’m constantly exploring new technologies, patterns, and best practices to sta
 
 Check out my repositories for some of the projects I’ve worked on:
 
-- **MERN Stack Todo App**: A full-stack to-do list app using React, Node.js, Express, and MongoDB.
-- **React Portfolio**: A personal portfolio website showcasing my skills and projects.
-- **E-commerce Site**: A fully functional e-commerce site built with React, Redux, and Firebase.
 
 ---
 
